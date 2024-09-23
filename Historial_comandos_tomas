@@ -1,0 +1,148 @@
+vagrant halt
+exit
+man ls
+man pwd
+clear
+pwd
+ls
+exit
+pwd
+ls
+cat README 
+cd carpeta_compartida/
+ls
+vagrant status
+asdsaDADsa
+asdsa
+dsa
+das
+dsa
+git --version
+ssh keygen
+sudo atp install git
+cd
+sudo atp install git
+exit
+clear
+git -version
+ssh-keygen
+man ss
+clear
+ssh-keygen
+cd .ssh
+ls -a
+cd id_rsa.pub
+pwd
+exit
+vagrant status
+xit
+exit
+cat FIN
+cat << FIN
+asdsad
+asd
+asd
+sa
+dsad
+afin
+fin
+FIN
+
+ls
+clear
+ls -la
+pwd
+ssh-keygen
+help
+cat
+cat $HOME/.ssh/*.pub
+man cat
+man ls
+pwd
+ls -a
+cd .ssh
+ls
+ls -a
+cat id_rsa.pub 
+cd..
+pwd
+cd ..
+pwd
+sudo apt install git
+exit
+sudo apt install tree
+pwd
+cat > archivo.txt
+ls
+ls -a
+cd ssh
+cd .ssh
+pwd
+ls
+cat id_rsa.pub 
+clear
+cd
+pwd
+ls
+cd carpeta_compartida/
+cd
+pwd
+mkdir repogit
+ls
+cd repogit/
+ls
+sudo apt install git
+git --version
+git clone git@github.com:TomasMunilla/TP_AySO.git
+ls
+cd TP_AySO/
+ls -l
+ls
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+ls -a
+cat README.md 
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+cat datos_usuario.txt 
+git status
+git add .
+git status
+git config --global user.name TomasMunilla
+git commit -m "ADD: agregando 1er ejercicio sobre datos_usuario.txt"
+git status
+ls
+cat README.md 
+pwd
+ls -a
+cd repogit/
+ls
+cd TP_AySO/
+ls
+ls -a
+cat datos_usuario.txt 
+cat proc/cpuinfo
+cat /proc/cpuinfo 
+man grep
+grep "model name" /proc/cpuinfo 
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+cat datos_usuario.txt 
+git status
+git add datos_usuario.txt 
+git commit "feat: Anadiendo informacion de CPU"
+git commit -m "feat: Anadiendo informacion de CPU"
+status
+git status
+cat datos_usuario.txt 
+grep -v nologin /etc/passwd
+man head
+grep -v nologin /etc/passwd | head | sort -k 7
+grep -v nologin /etc/passwd | head | sort -k 7 >> lista_ordenada
+ls -la
+git add .
+git commit -m "ADD: Listado de usuarios ordenado"
+clear
+vagrant halt
+exit
